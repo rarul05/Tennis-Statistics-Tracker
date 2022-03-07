@@ -2,4 +2,4 @@
 
 # Rankings
 
-1. [Novak Djokovic] (Novak_Djokovic.md)
+1. [Novak Djokovic] (/pages/Novak_Djokovic.md)
